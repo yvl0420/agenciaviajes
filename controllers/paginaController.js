@@ -1,4 +1,4 @@
-import {Viaje} from "../models/Viaje.js";
+import {Viaje} from "../models/viaje.js";
 import {Testimonial} from "../models/testimoniales.js";
 import moment from 'moment';
 
