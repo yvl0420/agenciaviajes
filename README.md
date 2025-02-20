@@ -9,7 +9,7 @@ Bienvenido a la **Agencia de Viajes**. Este proyecto web ha sido desarrollado co
 
 ## Descripción
 
-Este proyecto es una **agencia de viajes en línea** que permite a los usuarios explorar, reservar y gestionar sus viajes. Los usuarios también pueden dejar testimonios, y con la última modificación, ahora pueden calificar los viajes usando estrellas.
+Este proyecto es una **agencia de viajes en línea** que permite a los usuarios explorar viajes. Los usuarios también pueden dejar testimonios, y con la última modificación, ahora pueden calificar los viajes usando estrellas.
 
 El sistema sigue una arquitectura **Modelo-Vista-Controlador (MVC)**, que organiza el proyecto en tres partes:
 
