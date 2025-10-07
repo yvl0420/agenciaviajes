@@ -1,17 +1,18 @@
 {
   "name": "agenciadeviajes",
   "version": "1.0.0",
+  "description": "Proyecto de agencia de viajes",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "private": true,
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
-  "description": "",
+  "private": true,
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
