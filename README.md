@@ -3,7 +3,7 @@
 Bienvenido a la **Agencia de Viajes**. Este proyecto web ha sido desarrollado con **Node.js**, **Express**, y **MySQL**, ofreciendo una plataforma para la gestión de viajes y testimonios de los usuarios. Como característica adicional, se han incorporado **emoticonos de estrellas** en la sección de testimonios, donde los usuarios pueden ver y agregar su calificación de 1 a 5 estrellas, usando emoticonos de estrellas.
 
 ### Enlace de la aplicación:
-[Agencia de Viajes en producción](https://agenciaviajes-mcds.onrender.com)
+[Agencia de Viajes](https://agenciaviajes-mcds.onrender.com)
 
 ---
 
